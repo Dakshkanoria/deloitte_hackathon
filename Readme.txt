@@ -1,4 +1,14 @@
-﻿Tools :
+
+Github link
+
+https://github.com/Dakshkanoria/deloitte_hackathon
+
+
+App.py – flask app
+
+SentimentAnalysis.ipynb – notebook with code
+
+ools :
 =======
 Java 11
 python 3.10
@@ -31,5 +41,4 @@ Download the "SentimentAnalysis.ipynb" file, gitignore and Hackathon_Instruction
 https://handson-x-learn.s3.ap-south-1.amazonaws.com/Hackathon/SentimentAnalysis.ipynb
 
 https://handson-x-learn.s3.ap-south-1.amazonaws.com/Hackathon/Hackathon_Instructions.pdf
-
 
